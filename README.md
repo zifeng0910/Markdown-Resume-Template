@@ -10,7 +10,7 @@
 
 ## 工作及教育经历
 
-* 香港医疗机器人创新中心&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 研究助理       
+* 医疗机器人创新中心&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 研究助理       
 * 香港中文大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 生物医学工程-研究生         
 * 北京化工大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 生物工程-本科  
 
