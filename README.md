@@ -41,7 +41,7 @@
 
 ## 个人账号 
 * github 地址 (https://github.com/zifeng0910/)
-* google scholar 地址 (https://scholar.google.com/citations?hl=en&user=NXUI7uIAAAAJ&view_op=list_works&sortby=pubdate) 5篇发表
+* google scholar 地址 (https://scholar.google.com/citations?hl=en&user=NXUI7uIAAAAJ&view_op=list_works&sortby=pubdate) 4篇发表
 
 <!-- ## 其他信息 
 * 喜欢钻研技术 等等
