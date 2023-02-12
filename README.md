@@ -16,7 +16,7 @@
 
 ## 专业技能
 
-* 掌握Python，了解 Java, Javascript等编程语言
+* 掌握Python，了解 Java, C++等编程语言
 * 掌握Linux系统的操作和基本任务
 * 掌握基础数据结构和算法的基本原理 (100道leetcode)
 
