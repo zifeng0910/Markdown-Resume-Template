@@ -9,8 +9,8 @@
 * 专 业：生物医学工程 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研究助理
 
 ## 工作及教育经历
-* 佐治亚理工学院;&emsp;&emsp;&emsp;&ensp;2023.1~至今&emsp;&emsp;&emsp;&emsp;&emsp; 计算机科学-研究生   
-* 香港中文大学&emsp;&emsp;&emsp;&ensp;2020.12~至今&emsp;&emsp;&emsp;&emsp;&emsp; 研究助理(RA)      
+* 佐治亚理工学院&emsp;;;;;;&emsp;&ensp;&emsp;2023.1~至今&emsp;&emsp;&emsp;&emsp;&emsp; 计算机科学-研究生   
+* 香港中文大学&emsp;&emsp;&emsp;&ensp;;&emsp;2020.12~至今&emsp;&emsp;&emsp;&emsp;&emsp; 研究助理(RA)      
 * 香港中文大学&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2020.11&emsp;&emsp;&emsp;&emsp; 生物医学工程-研究生         
 * 北京化工大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2019.7&emsp;&emsp;&emsp;&emsp; 生物工程-本科  
 
@@ -41,7 +41,7 @@
 
 ## 个人账号 
 * github 地址 (https://github.com/zifeng0910/)
-* google scholar 地址 (https://scholar.google.com/citations?hl=en&user=NXUI7uIAAAAJ&view_op=list_works&sortby=pubdate) 
+* google scholar 地址 (https://scholar.google.com/citations?hl=en&user=NXUI7uIAAAAJ&view_op=list_works&sortby=pubdate) 5篇发表
 
 <!-- ## 其他信息 
 * 喜欢钻研技术 等等
